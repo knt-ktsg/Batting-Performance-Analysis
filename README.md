@@ -1,7 +1,7 @@
 # :baseball: Batting Performance Analysis
 
 ## :books: Project Description
-Shohei Ohtani is regarded one of the best players of all time, as he is able to perform at the highest level in both pitching and hitting. He set a new record, achieving 50 home runs and 50 stolen bases in the same season.
+**Shohei Ohtani** is regarded one of the best players of all time, as he is able to perform at the highest level in both pitching and hitting. He set a new record, achieving 50 home runs and 50 stolen bases in the same season.
 Given his extraordinary abilities, this analysis aims to explore strategies and insights for opposing teams looking to neutralize his impact on the game. By examining his strengths, weaknesses, and patterns, the project will propose actionable strategies to shut down one of the most talented players in baseball history.
 
 ## :memo: Table of Contents
@@ -19,8 +19,8 @@ Given his extraordinary abilities, this analysis aims to explore strategies and 
 
 ## Tools and Libraries
 
-- Jupyter notebook
-- Python
+- **Jupyter notebook**
+- **Python**
   - pandas
   - matplotlib
   - seaborn
