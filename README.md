@@ -25,8 +25,19 @@ Given his extraordinary abilities, this analysis aims to explore strategies and 
   - matplotlib
   - seaborn
 
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:knt-ktsg/Coffee-Sales-Analysis.git
+
+2. Install dependencies:
+   ```bash
+   pip pip install -r requirements.txt
+
 ## Usage
-`jupyter notebook Batting_Performance_Analysis.jpynb`
+1. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook Batting_Performance_Analysis.jpynb
 
 ## Key Findings
 * Batting average tends to be higher in early counts.
