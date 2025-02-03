@@ -7,6 +7,7 @@ Given his extraordinary abilities, this analysis aims to explore strategies and 
 ## :memo: Table of Contents
 - [Dataset](#dataset)
 - [Tools and Libraries](#tools-and-libraries)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Key Findings](#key-findings)
 - [Future Work](#future-work)
@@ -28,7 +29,7 @@ Given his extraordinary abilities, this analysis aims to explore strategies and 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone git@github.com:knt-ktsg/Coffee-Sales-Analysis.git
+   git clone git@github.com:knt-ktsg/Batting-Performance-Analysis.git
 
 2. Install dependencies:
    ```bash
